@@ -1,0 +1,5 @@
+export const SETUSERNAME = 'SETUSERNAME';
+export const GETUSERSLIST = 'GETUSERSLIST';
+export const SETUSERSCOUNT = 'SETUSERSCOUNT';
+
+
